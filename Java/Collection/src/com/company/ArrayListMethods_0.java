@@ -3,7 +3,7 @@ package com.company;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class ArrayListMethods_0 {
 
     public static void main(String[] args) {
         // Collection - интерфейс, Collections - это класс, с методами, которые часто нужны.

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4c586b6-f4a6-40cf-9e79-82d001576516" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Comparable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_12/.idea/lesson_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_12/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_course/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_course/target/classes/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_course/spring_course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Test3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zs8qLj0mbYvrzS4G94CplVqxKR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_course" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4c586b6-f4a6-40cf-9e79-82d001576516" name="Changes" comment="" />
+      <created>1634925624594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634925624594</updated>
+      <workItem from="1634925625916" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
