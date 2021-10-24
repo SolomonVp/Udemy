@@ -7,8 +7,12 @@ public class ConfigWithAnnotations1 {
         ClassPathXmlApplicationContext context =
                 new ClassPathXmlApplicationContext("applicationContext3.xml");
 
-        Cat myCat = context.getBean("cat", Cat.class); // Тут id бина было создано Спрингом автоматически (Имени класса было автоматически присвоенно то же имя, только с маленькой буквы)
-        myCat.say();
+//        Cat myCat = context.getBean("cat", Cat.class); // Тут id бина было создано Спрингом автоматически (Имени класса было автоматически присвоенно то же имя, только с маленькой буквы)
+//        myCat.say();
+
+        Person person = context.getBean("personBean", Person.class);
+        person.callYourPet();
+
         context.close();
     }
 }

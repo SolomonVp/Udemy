@@ -2,36 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c8ef499-a16e-447f-b8e0-c56ad7c1635a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Java/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/Collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Comparable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lesson_12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson_2/spring_course/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson_2/spring_course/target/classes/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson_2/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson_2/spring_course/spring_course.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson_2/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_2/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson_2/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_2/spring_course/target/classes/com/zaurtregulov/spring/spring_introduction/Test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_5_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_5_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_5_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/ArrayListMethods_5_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/out/production/Collection/com/company/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_5_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_5_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_5_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayListMethods_5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Collection/src/com/company/ArrayList/ArrayListMethods_5_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,6 +58,7 @@
       <updated>1634828614872</updated>
       <workItem from="1634828617107" duration="16000" />
       <workItem from="1634925415157" duration="199000" />
+      <workItem from="1635008927233" duration="15000" />
     </task>
     <servers />
   </component>
