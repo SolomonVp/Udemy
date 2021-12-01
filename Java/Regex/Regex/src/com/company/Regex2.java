@@ -12,7 +12,7 @@ public class Regex2 {
 //        Pattern pattern1 = Pattern.compile("AB[C-F]OP");
 
         String s1 = "abcd abce abc5abcg6abch";
-        Pattern pattern1 = Pattern.compile("abc[^e-g4-7]");
+        Pattern pattern1 = Pattern.compile("\\w+");
 
         Matcher matcher = pattern1.matcher(s1);
         while (matcher.find()) {
